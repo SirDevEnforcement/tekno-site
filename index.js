@@ -2,7 +2,7 @@
 const express = require("express");
 const app = express();
 //-------------------Create Server------------------------
- app.set('trust proxy', true);
+app.set('trust proxy', true);
 app.use(express.static(__dirname + "/public"), (_, res, next) => {
   res.status(404)
   res.sendFile(__dirname + "/")
