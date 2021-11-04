@@ -144,7 +144,7 @@ body {
 .card.statistic {
     background: transparent !important;
     box-shadow: none !important;
-    color: #737578 !important;
+    color: #fff !important;
 }
 
 
@@ -166,7 +166,7 @@ body {
 .features .card {
     background: #1D1E28;
     border-radius: 22px !important;
-    border: 4px solid #737578;
+    border: 4px solid #fff;
 }
 .features .card-text {
 color: #ffffffab !important
@@ -177,7 +177,7 @@ color: #ffffffab !important
 }
 
 .navbar-toggler-icon {
-    color: #fff !important
+    color: #fff !important;
 }
 .footer {
     text-align: center !important;
