@@ -44,7 +44,9 @@ body {
     border-radius: 10px !important;
     font-size: 16px !important;
     font-weight: 600 !important;
-    text-transform: uppercase !important;
+}
+.navbar-button {
+  background-color: #242831!important
 }
 
 .btn-primary {
@@ -144,7 +146,7 @@ body {
 .card.statistic {
     background: transparent !important;
     box-shadow: none !important;
-    color: #fff !important;
+    color: #737578 !important;
 }
 
 
@@ -166,7 +168,7 @@ body {
 .features .card {
     background: #1D1E28;
     border-radius: 22px !important;
-    border: 4px solid #fff;
+    border: 4px solid #737578;
 }
 .features .card-text {
 color: #ffffffab !important
@@ -177,7 +179,7 @@ color: #ffffffab !important
 }
 
 .navbar-toggler-icon {
-    color: #fff !important;
+    color: #fff !important
 }
 .footer {
     text-align: center !important;
